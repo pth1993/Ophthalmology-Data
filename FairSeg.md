@@ -28,7 +28,7 @@ The FairSeg dataset containing 10,000 patients includes 10,000 Scanning laser op
 
 ### Languages
 
-The text in the dataset is in English.
+Not applicable.
 
 ## Dataset Structure
 
