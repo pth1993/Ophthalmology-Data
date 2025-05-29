@@ -24,7 +24,8 @@ The FairCLIP dataset comprises 10,000 SLO images from 10,000 subjects. The file 
 
 ### Supported Tasks and Leaderboards
 
-[Needs More Information]
+- Classification
+- Retrieval
 
 ### Languages
 
@@ -69,12 +70,14 @@ In .npz files
 
 ### Data Splits
 
-It is divided into 7,000 training, 1,000 validation, and 2,000 test samples. The file split_files.csv details the division of data into training, validation, and testing sets. 
+It is divided into 7,000 training, 1,000 validation, and 2,000 test samples. The file data_summary.csv details the division of data into training, validation, and testing sets. 
 
 ```
-Harvard-FairVLMed
-├── data_summary.csv
-├── gpt-4_summarized_notes.csv
+FairCLIP
+├── ReadMe
+├──── data_description.txt
+├──── data_summary.csv
+├──── gpt-4_summarized_notes.csv
 ├── Training
 ├── Validation
 └── Test
