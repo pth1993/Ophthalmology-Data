@@ -72,6 +72,7 @@ In .npz files
 
 It is divided into 7,000 training, 1,000 validation, and 2,000 test samples. The file data_summary.csv details the division of data into training, validation, and testing sets. 
 
+### Data Folder
 ```
 FairCLIP
 ├── ReadMe

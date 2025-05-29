@@ -110,6 +110,8 @@ Not applicable.
 
 It is divided into 8,000 training and 2,000 test samples (for each classification and segmentation tasks). The file data_summary.csv details the division of data into training and testing sets. 
 
+
+### Data Folder
 ```
 FairSeg
 ├── Classification

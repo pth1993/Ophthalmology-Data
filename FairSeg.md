@@ -68,6 +68,7 @@ maritalstatus: 0 - Married or Partnered, 1 - Single, 2 - Divorced, 3 - Widowed, 
 
 It is divided into 8,000 training and 2,000 test samples. The file data_summary.csv details the division of data into training and testing sets. 
 
+### Data Folder
 ```
 FairSeg
 ├── ReadMe
