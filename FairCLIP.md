@@ -9,19 +9,6 @@
   - [Data Instances](#data-instances)
   - [Data Fields](#data-instances)
   - [Data Splits](#data-instances)
-- [Dataset Creation](#dataset-creation)
-  - [Curation Rationale](#curation-rationale)
-  - [Source Data](#source-data)
-  - [Annotations](#annotations)
-  - [Personal and Sensitive Information](#personal-and-sensitive-information)
-- [Considerations for Using the Data](#considerations-for-using-the-data)
-  - [Social Impact of Dataset](#social-impact-of-dataset)
-  - [Discussion of Biases](#discussion-of-biases)
-  - [Other Known Limitations](#other-known-limitations)
-- [Additional Information](#additional-information)
-  - [Dataset Curators](#dataset-curators)
-  - [Licensing Information](#licensing-information)
-  - [Citation Information](#citation-information)
 
 ## Dataset Description
 
@@ -53,6 +40,7 @@ The text in the dataset is in English.
 
 In data_summary.csv
 
+```
 - filename
 - age
 - gender
@@ -64,83 +52,30 @@ In data_summary.csv
 - gpt4_summary
 - glaucoma
 - use
+```
 
 In .npz files
 
-- slo_fundus
-- maritalstatus
-- ethnicity
-- language
-- gender
-- race
-- age
-- glaucoma
+```
+- slo_fundus: slo fundus image
+- age: patient age
+- gender: Female (0), Male (1)
+- race: Asian (0), Black (1), White (2)
+- ethnicity: non-Hispanic (0), Hispanic (1), Unknown (-1)
+- language: English (0), Spanish (1), Other (2), Unknown (-1)
+- maritalstatus: Marriage or Partnered (0), Single (1), Divorced (2), Widoled (3), Legally Separated (4), Unknown (-1)
+- glaucoma: Non-Glaucoma (0) or Glaucoma (1)
+```
 
 ### Data Splits
 
 It is divided into 7,000 training, 1,000 validation, and 2,000 test samples. The file split_files.csv details the division of data into training, validation, and testing sets. 
 
+```
 Harvard-FairVLMed
 ├── data_summary.csv
 ├── gpt-4_summarized_notes.csv
 ├── Training
 ├── Validation
 └── Test
-
-## Dataset Creation
-
-### Curation Rationale
-
-[Needs More Information]
-
-### Source Data
-
-#### Initial Data Collection and Normalization
-
-[Needs More Information]
-
-#### Who are the source language producers?
-
-[Needs More Information]
-
-### Annotations
-
-#### Annotation process
-
-[Needs More Information]
-
-#### Who are the annotators?
-
-[Needs More Information]
-
-### Personal and Sensitive Information
-
-[Needs More Information]
-
-## Considerations for Using the Data
-
-### Social Impact of Dataset
-
-[Needs More Information]
-
-### Discussion of Biases
-
-[Needs More Information]
-
-### Other Known Limitations
-
-[Needs More Information]
-
-## Additional Information
-
-### Dataset Curators
-
-[Needs More Information]
-
-### Licensing Information
-
-[Needs More Information]
-
-### Citation Information
-
-[Needs More Information]
+```
