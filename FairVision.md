@@ -27,7 +27,7 @@ The FairVision dataset includes 10,000 subjects for Age-Related Macular Degenera
 
 ### Languages
 
-The text in the dataset is in English.
+Not applicable.
 
 ## Dataset Structure
 
