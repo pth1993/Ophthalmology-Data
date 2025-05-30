@@ -151,17 +151,6 @@ Not applicable.
   - glaucoma: the label of glaucoma disease, 0 - non-glaucoma, 1 - glaucoma
   ```
 
-  The condition would be converted into the label of vision-threatening DR by the condition-disease mapping.
-
-  ```
-  condition_disease_mapping = {'not.in.icd.table': 0.,
-                      'no.dr.diagnosis': 0.,
-                      'mild.npdr': 0.,
-                      'moderate.npdr': 0.,
-                      'severe.npdr': 1.,
-                      'pdr': 1.}
-  ```
-
 ### Data Splits
 
 For each disease (i.e., AMD, DR, Glaucoma), data is divided into 7,000 training, 1,000 validation, and 2,000 test samples. The file data_summary.csv details the division of data into training, validation, and testing sets. 
