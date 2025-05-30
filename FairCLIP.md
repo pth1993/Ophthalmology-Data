@@ -1,14 +1,17 @@
 # Dataset Card for FairCLIP
 
 ## Table of Contents
-- [Dataset Description](#dataset-description)
-  - [Dataset Summary](#dataset-summary)
-  - [Supported Tasks](#supported-tasks-and-leaderboards)
-  - [Languages](#languages)
-- [Dataset Structure](#dataset-structure)
-  - [Data Instances](#data-instances)
-  - [Data Fields](#data-instances)
-  - [Data Splits](#data-instances)
+- [Dataset Card for FairCLIP](#dataset-card-for-fairclip)
+  - [Table of Contents](#table-of-contents)
+  - [Dataset Description](#dataset-description)
+    - [Dataset Summary](#dataset-summary)
+    - [Supported Tasks and Leaderboards](#supported-tasks-and-leaderboards)
+    - [Languages](#languages)
+  - [Dataset Structure](#dataset-structure)
+    - [Data Instances](#data-instances)
+    - [Data Fields](#data-fields)
+    - [Data Splits](#data-splits)
+    - [Data Folder](#data-folder)
 
 ## Dataset Description
 
@@ -24,6 +27,7 @@ The FairCLIP dataset comprises 10,000 SLO images from 10,000 subjects. The file 
 
 - Classification
 - Retrieval
+- Fairness
 
 ### Languages
 
