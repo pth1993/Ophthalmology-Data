@@ -15,8 +15,6 @@
 - **Homepage:** https://github.com/Harvard-Ophthalmology-AI-Lab/FairDomain
 - **Download:** https://drive.google.com/drive/folders/1huH93JVeXMj9rK6p1OZRub868vv0UK0O?usp=drive_link
 - **Paper:** https://arxiv.org/pdf/2407.08813
-- **Leaderboard:** [Needs More Information]
-- **Point of Contact:** [Needs More Information]
 
 ### Dataset Summary
 

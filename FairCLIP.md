@@ -15,8 +15,6 @@
 - **Homepage:** https://github.com/Harvard-Ophthalmology-AI-Lab/FairCLIP
 - **Repository:** https://drive.google.com/drive/folders/1bkeifigwOAfnsLvup9mJOSNeA3WsvA2l
 - **Paper:** https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_FairCLIP_Harnessing_Fairness_in_Vision-Language_Learning_CVPR_2024_paper.pdf
-- **Leaderboard:** [Needs More Information]
-- **Point of Contact:** [Needs More Information]
 
 ### Dataset Summary
 

@@ -15,8 +15,6 @@
 - **Homepage:** https://github.com/Harvard-Ophthalmology-AI-Lab/FairSeg
 - **Download:** https://drive.google.com/drive/u/1/folders/1tyhEhYHR88gFkVzLkJI4gE1BoOHoHdWZ
 - **Paper:** https://openreview.net/pdf?id=qNrJJZAKI3
-- **Leaderboard:** [Needs More Information]
-- **Point of Contact:** [Needs More Information]
 
 ### Dataset Summary
 
@@ -25,6 +23,7 @@ The FairSeg dataset containing 10,000 patients includes 10,000 Scanning laser op
 ### Supported Tasks and Leaderboards
 
 - Segmentation
+- Fairness
 
 ### Languages
 
