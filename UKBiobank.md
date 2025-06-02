@@ -37,7 +37,8 @@ Not applicable.
 
 ### Data Instances
 
-144,542 CFP images (2048 * 1536) in PNG format and 140,659 3D OCT images (128 * 512 * 650) in zip format.
+- 180,428 CFP images (2048 * 1536) in PNG format: 89853 left eyes (21015) and 90575 right eyes (21016) 
+- 175,830 3D OCT images (128 * 512 * 650) in zip format: 87572 left eyes (21017) and 88258 right eyes (21018) 
 
 ### Data Folder
 ```
